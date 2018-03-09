@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80993517162",
+    "firebase_url": "https://gameprototyping-a3a9e.firebaseio.com",
+    "project_id": "gameprototyping-a3a9e",
+    "storage_bucket": "gameprototyping-a3a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80993517162:android:9a05183a7f470b5e",
+        "android_client_info": {
+          "package_name": "se.sleepyduckstudio.gameprototyping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80993517162-bbt102o0p73rn1dpfori7eulggt3cuj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.sleepyduckstudio.gameprototyping",
+            "certificate_hash": "4b8e5cb5562580a49780ee48507761e045b6f86f"
+          }
+        },
+        {
+          "client_id": "80993517162-rhl17tqe2qq26m560og8s0knp785v1hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25llvtbUmufkJPhdCooAN1b29nGpsZLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80993517162-rhl17tqe2qq26m560og8s0knp785v1hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

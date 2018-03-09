@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game Prototyping</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1586949106208904/9145615445</string>
+
+    <string name="make_a">Make a</string>
+    <string name="game">game</string>
+    <string name="set">Set</string>
+    <string name="featuring">Featuring</string>
+    <string name="and">and</string>
+</resources>

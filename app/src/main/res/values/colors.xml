@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--colorset id="primary" title="Primary color"-->
+    <color name="primary_0">#009D91</color>
+    <color name="primary_1">#47B5AD</color>
+    <color name="primary_2">#24A399</color>
+    <color name="primary_3">#007970</color>
+    <color name="primary_4">#005F58</color>
+    <!--colorset id="secondary_1" title="Secondary color (1)"-->
+    <color name="secondary_1_0">#680BAB</color>
+    <color name="secondary_1_1">#9252C0</color>
+    <color name="secondary_1_2">#7A30B0</color>
+    <color name="secondary_1_3">#500884</color>
+    <color name="secondary_1_4">#3E0568</color>
+    <!--colorset id="secondary_2" title="Secondary color (2)"-->
+    <color name="secondary_2_0">#FFF800</color>
+    <color name="secondary_2_1">#FFFB63</color>
+    <color name="secondary_2_2">#FFFA39</color>
+    <color name="secondary_2_3">#C5C000</color>
+    <color name="secondary_2_4">#9B9700</color>
+    <!--colorset id="complement" title="Complement color"-->
+    <color name="complement_0">#FF6F00</color>
+    <color name="complement_1">#FFA763</color>
+    <color name="complement_2">#FF8F39</color>
+    <color name="complement_3">#C55600</color>
+    <color name="complement_4">#9B4300</color>
+
+    <color name="colorPrimary">@color/primary_0</color>
+    <color name="colorPrimaryDark">@color/primary_4</color>
+    <color name="colorAccent">@color/secondary_1_1</color>
+</resources>
